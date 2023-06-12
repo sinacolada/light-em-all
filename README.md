@@ -18,7 +18,7 @@ Run the project
 ./gradlew run
 ```
 
-The game runs with a default of an 7x7. To change this, run the project with command line arguments.
+The game runs with a default of a 7x7 board. To change this, run the project with command line arguments.
 
 ```
 ./gradlew run --args="-r 5 -c 6"
